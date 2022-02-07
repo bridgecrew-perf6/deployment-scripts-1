@@ -1,0 +1,17 @@
+{
+  "name": "mumbai-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.3",
+    "node-fetch": "^3.1.1"
+  }
+}
